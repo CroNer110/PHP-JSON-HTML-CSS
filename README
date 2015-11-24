@@ -1,0 +1,1 @@
+This is PHP application which loads two Json documents and outputs HTML table based on the Json data. HTML table is dynamically formed by the number of Json data and styleized in the css file. This application was made as a task for getting a job in programming company.
